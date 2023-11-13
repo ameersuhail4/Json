@@ -1,0 +1,54 @@
+{
+  "quiz": [
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correct_answer": "Au"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Mars"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+      "correct_answer": "Mitochondria"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correct_answer": "Blue Whale"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+      "correct_answer": "Albert Einstein"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correct_answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": ["CO2", "H2O", "O2", "N2"],
+      "correct_answer": "H2O"
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "options": ["Iron", "Gold", "Silver", "Copper"],
+      "correct_answer": "Iron"
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+      "correct_answer": "300,000 km/s"
+    },
+    {
+      "question": "What is the smallest unit of matter?",
+      "options": ["Atom", "Molecule", "Cell", "Proton"],
+      "correct_answer": "Atom"
+    }
+  ]
+}
