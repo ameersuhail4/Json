@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A story of the Jazz Age and the American Dream."
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A classic exploration of racism and morality in the American South."
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel exploring the dangers of totalitarianism."
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A coming-of-age novel narrated by a teenager in New York City."
+  },
+  {
+    "id": 5,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic novel exploring themes of love, class, and reputation."
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "An adventure novel set in a fantasy world, prelude to The Lord of the Rings."
+  },
+  {
+    "id": 7,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "description": "A dystopian novel set in a post-apocalyptic world featuring a televised battle for survival."
+  },
+  {
+    "id": 8,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the Harry Potter series, introducing the magical world."
+  },
+  {
+    "id": 9,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "description": "A mystery thriller that follows symbologist Robert Langdon as he investigates a murder in the Louvre."
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "A trilogy of epic fantasy novels following the quest to destroy the One Ring."
+  }
+]
