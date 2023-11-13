@@ -1,0 +1,54 @@
+{
+  "quiz": [
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1941", "1950"],
+      "correct_answer": "1945"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "John Adams", "James Madison"],
+      "correct_answer": "George Washington"
+    },
+    {
+      "question": "What ancient civilization built the pyramids of Giza?",
+      "options": ["Roman Empire", "Greek Civilization", "Ancient Egyptians", "Mesopotamians"],
+      "correct_answer": "Ancient Egyptians"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correct_answer": "William Shakespeare"
+    },
+    {
+      "question": "Which famous explorer sailed around the world during the Age of Discovery?",
+      "options": ["Christopher Columbus", "Ferdinand Magellan", "Marco Polo", "Vasco da Gama"],
+      "correct_answer": "Ferdinand Magellan"
+    },
+    {
+      "question": "During which century did the Renaissance take place?",
+      "options": ["14th", "15th", "16th", "17th"],
+      "correct_answer": "15th"
+    },
+    {
+      "question": "What event marked the beginning of the French Revolution?",
+      "options": ["Storming of the Bastille", "Battle of Waterloo", "Tennis Court Oath", "Execution of Louis XVI"],
+      "correct_answer": "Storming of the Bastille"
+    },
+    {
+      "question": "Who was the leader of the Civil Rights Movement in the United States?",
+      "options": ["Malcolm X", "Rosa Parks", "Martin Luther King Jr.", "Harriet Tubman"],
+      "correct_answer": "Martin Luther King Jr."
+    },
+    {
+      "question": "In which year did the Berlin Wall fall, leading to the reunification of Germany?",
+      "options": ["1985", "1989", "1991", "1995"],
+      "correct_answer": "1989"
+    },
+    {
+      "question": "Which empire was ruled by Emperor Nero?",
+      "options": ["Roman Empire", "Byzantine Empire", "Ottoman Empire", "Mongol Empire"],
+      "correct_answer": "Roman Empire"
+    }
+  ]
+}
